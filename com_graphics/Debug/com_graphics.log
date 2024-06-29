@@ -1,0 +1,93 @@
+﻿  scenery.cpp
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(5,2): error C3861: 'glClearColor': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(6,15): error C2065: 'GL_PROJECTION': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(6,2): error C3861: 'glMatrixMode': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(7,2): error C3861: 'glLoadIdentity': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(8,2): error C3861: 'gluOrtho2D': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(12,10): error C2065: 'GL_COLOR_BUFFER_BIT': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(12,2): error C3861: 'glClear': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(13,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(14,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(14,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(15,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(16,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(17,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(18,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(19,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(20,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(22,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(23,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(23,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(24,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(25,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(26,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(27,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(28,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(29,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(30,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(32,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(33,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(33,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(34,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(35,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(36,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(37,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(38,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(39,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(40,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(42,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(44,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(45,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(45,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(46,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(47,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(48,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(49,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(50,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(51,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(53,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(54,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(54,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(55,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(56,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(57,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(58,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(59,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(60,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(62,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(63,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(63,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(64,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(65,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(66,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(68,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(69,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(71,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(72,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(72,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(73,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(74,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(75,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(76,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(77,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(79,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(80,10): error C2065: 'GL_POLYGON': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(80,2): error C3861: 'glBegin': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(81,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(82,2): error C3861: 'glColor3f': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(83,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(84,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(85,2): error C3861: 'glVertex2i': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(86,2): error C3861: 'glEnd': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(87,2): error C3861: 'glFlush': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(92,20): error C2061: syntax error: identifier 'CHAR'
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(95,18): error C2065: 'argv': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(95,2): error C3861: 'glutInit': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(96,22): error C2065: 'GLUT_SINGLE': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(96,36): error C2065: 'GLUT_RGB': undeclared identifier
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(96,2): error C3861: 'glutInitDisplayMode': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(97,2): error C3861: 'glutInitWindowSize': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(98,2): error C3861: 'glutCreateWindow': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(99,2): error C3861: 'glutInitWindowPosition': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(100,2): error C3861: 'glutDisplayFunc': identifier not found
+C:\Users\Yousuf Traders\Desktop\computer graphics\com_graphics\scenery.cpp(102,2): error C3861: 'glutMainLoop': identifier not found

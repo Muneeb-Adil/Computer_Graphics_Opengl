@@ -1,0 +1,5 @@
+﻿  random.cpp
+C:\Users\Yousuf Traders\Desktop\computer graphics\random\random.cpp(5,5): error C2086: 'int x': redefinition
+C:\Users\Yousuf Traders\Desktop\computer graphics\random\random.cpp(4,5): message : see declaration of 'x'
+C:\Users\Yousuf Traders\Desktop\computer graphics\random\random.cpp(5,8): error C2086: 'int y': redefinition
+C:\Users\Yousuf Traders\Desktop\computer graphics\random\random.cpp(4,8): message : see declaration of 'y'
